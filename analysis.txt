@@ -1,1 +1,88 @@
-bheduashudgasuhdgwbdgsdusdgjwsd
+Project Title:
+
+Password Manager
+
+🔹 Objective:
+
+The main objective of this project is to develop a secure and efficient password management system that allows users to store, retrieve, and manage their passwords safely. The system aims to protect user credentials using encryption and provide easy access through authentication.
+
+🔹 Problem Statement:
+
+In today’s digital world, users have multiple online accounts, each requiring strong and unique passwords. Remembering all passwords is difficult, leading many to reuse weak ones. This increases the risk of security breaches.
+A password manager solves this problem by securely storing all credentials in one place, accessible only through a master password.
+
+🔹 Scope of the Project:
+
+Store multiple passwords in an encrypted format.
+
+Retrieve passwords using a secure login system.
+
+Option to add, update, and delete passwords.
+
+User-friendly interface for easy access and management.
+
+Optionally include a password generator feature.
+
+🔹 Roles and Responsibilities:
+
+1. Project Lead / Developer
+
+Designs the architecture of the password manager.
+
+Implements the main features (store, retrieve, delete).
+
+2. UI/UX Designer
+
+Designs a simple and intuitive user interface.
+
+Ensures ease of navigation and usability.
+
+3. Database Manager
+
+Creates and manages the storage structure (SQLite or JSON).
+
+Ensures data is securely stored and efficiently retrieved.
+
+4. Security Analyst
+
+Implements encryption and hashing to protect passwords.
+
+Ensures data is safe from unauthorized access.
+
+5. Tester / QA
+
+Tests system functionality and security.
+
+Reports and fixes bugs or vulnerabilities.
+
+6. Documentation Writer
+
+Prepares all technical documentation and user guide.
+
+Summarizes project goals, features, and tools used.
+
+🔹 Tools and Technologies Used:
+
+Programming Language: Python
+
+Database: SQLite / JSON file
+
+Encryption Library: Cryptography or Fernet
+
+IDE: VS Code / PyCharm
+
+Version Control: GitHub (optional)
+
+🔹 Expected Output:
+
+User can log in with a master password.
+
+User can store, update, and delete credentials.
+
+All passwords are stored in encrypted form.
+
+The system ensures security and easy usability.
+
+🔹 Conclusion:
+
+The Password Manager project demonstrates how security, encryption, and user convenience can be combined in software development. It provides a real-world example of data protection and secure authentication systems, helping users manage their credentials effectively and safely.
