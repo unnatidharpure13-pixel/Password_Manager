@@ -1,3 +1,7 @@
+
+
+// here is the code of java script which will add the functionality to the project and will make it responsive.
+
 const lengthSlider = document.querySelector(".pass-length input"),
   options = document.querySelectorAll(".option input"),
   copyIcon = document.querySelector(".input-box span"),
