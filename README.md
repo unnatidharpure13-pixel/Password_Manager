@@ -20,9 +20,7 @@ This project provides both a command-line interface and an optional simple GUI/w
 ---
 
 ## Technologies
-
 Choose the language you want to implement
-
-*JavaScript (Node.js / Browser)*
+*JavaScript (Node.js / Browser)
 - Uses crypto.getRandomValues in the browser or crypto in Node for secure values.
 
