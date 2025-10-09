@@ -8,25 +8,28 @@
 
 body {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: center;   /* Vertical center */
+  justify-content: center; /* Horizontal center */
   min-height: 100vh;
+  margin: 0; /* Ensure no default margin */
   background: linear-gradient(180deg, #070807 50%, #dca314 50%);
 }
 
 .container {
   width: 430px;
-  background: #222;
+  background: #0c0c0c;
   border-radius: 7px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+  margin: 0;
 }
 
 .container h2 {
   font-weight: 600;
   font-size: 21px;
   padding: 16px 30px;
-  border-bottom: 1px solid #f00000;
+  border-bottom: 1px solid #000000;
   text-align: center;
+  color: red;
 }
 
 .wrapper {
